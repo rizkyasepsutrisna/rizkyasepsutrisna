@@ -10,7 +10,7 @@
 - ⏰ Updated on Fri, 30 Apr 2021 02:10:05 GMT
 
 ### Contact with me:
-[<img align="left" alt="rizkyasepsutrisna | YouTube" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][youtube]
+[<img align="left" alt="rizkyasepsutrisna | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][youtube]
 [<img align="left" alt="rizkyasepsutrisna | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="rizkyasepsutrisna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="rizkyasepsutrisna | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
