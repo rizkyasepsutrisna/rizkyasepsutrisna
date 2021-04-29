@@ -13,7 +13,7 @@
 [<img align="left" alt="rizkyasepsutrisna | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="rizkyasepsutrisna | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img align="left" alt="rizkyasepsutrisna | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-<img align="left" alt="rizkyasepsutrisna | Gmail" src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rizkyasepsutrisna@gmail.com" />
+[<img align="left" alt="rizkyasepsutrisna | Gmail" src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rizkyasepsutrisna@gmail.com" />][gmail]
 
 <br />
 
@@ -33,6 +33,7 @@
 <br />
 <br />
 
+[gmail]: mailto:rizkyasepsutrisna@gmail.com
 [facebook]: https://facebook.com/rizky.asepsutrisna/
 [instagram]: https://instagram.com/rizkyasepsutrisna/
 [linkedin]: https://linkedin.com/in/rizky-asep-sutrisna-a0936817a/
