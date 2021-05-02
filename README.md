@@ -1,13 +1,12 @@
-### Hi There 👋 👋 , I'm Asep
+# Hi There 👋 👋 , I'm Asep
 
 ## Just a hobby and while learning to code programs
 
-- 🔭 I just launched my first course VS Code
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I Like playing games on a smartphone and I Like Music
-- ⏰ Updated on Fri, 30 Apr 2021 02:10:05 GMT
+- 🔭  I just launched my first course VS Code
+- 🌱  I’m currently learning everything 🤣
+- 👯  I’m looking to collaborate with other content creators
+- 🥅  2021 Goals: Contribute more to Open Source projects
+- ⚡   Fun fact: I Like playing games on a smartphone and I Like Music
 
 ### Connect with me:
 [<img align="left" alt="rizkyasepsutrisna | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
